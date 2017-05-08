@@ -1,1 +1,1 @@
-# DummyRepo
+This is just a dummy repo
